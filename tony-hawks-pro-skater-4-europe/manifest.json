@@ -1,0 +1,266 @@
+{
+  "name": "Tony Hawks Pro Skater 4 (Europe)",
+  "system": "psx",
+  "file": "tony-hawks-pro-skater-4-europe.zip",
+  "size": 531691697,
+  "md5": "ca143916416e593f6264ac7db3dd94a6",
+  "uncompressedSize": 747319875,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part000",
+      "size": 10485760,
+      "md5": "178edb20d2e5cbd7792911f96bf4a37f"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part001",
+      "size": 10485760,
+      "md5": "4dcd632aa896b158efbb41d99bf080e3"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part002",
+      "size": 10485760,
+      "md5": "fead28a081debf026b441f3ffcaeb3ae"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part003",
+      "size": 10485760,
+      "md5": "265a842614fa1df7b8e02346f6c1e3ce"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part004",
+      "size": 10485760,
+      "md5": "74056f4ed9acb7b923a8da9265fbad3f"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part005",
+      "size": 10485760,
+      "md5": "4a64c601d242bb423f4c23cb713e0936"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part006",
+      "size": 10485760,
+      "md5": "805cc6a931ed59a50952f76fa058f12d"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part007",
+      "size": 10485760,
+      "md5": "fd83dcb6eb7fdf95cff8088a1d6d0a62"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part008",
+      "size": 10485760,
+      "md5": "69ad2b79d52c16f3c1004f33cbcecb2f"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part009",
+      "size": 10485760,
+      "md5": "89775be585530439035a477c22a7c527"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part010",
+      "size": 10485760,
+      "md5": "5412e679a2333b7f5e54218ff9ed400e"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part011",
+      "size": 10485760,
+      "md5": "268a011bd76e6df3fe2a86257700e4ce"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part012",
+      "size": 10485760,
+      "md5": "32b5083bf0da104129982cf21d33ff0c"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part013",
+      "size": 10485760,
+      "md5": "788d06d97c3161f131b58bf91b27a188"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part014",
+      "size": 10485760,
+      "md5": "670fe1fccd0107e1e736f80b702319b3"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part015",
+      "size": 10485760,
+      "md5": "d42ed90c4fb11cce7b2b69691aa6de7f"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part016",
+      "size": 10485760,
+      "md5": "3c560ec585c0960d33e16cd60c9d258d"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part017",
+      "size": 10485760,
+      "md5": "a3496c4c68328367e979b73eaf9799bd"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part018",
+      "size": 10485760,
+      "md5": "134b0d351735adce3ee90b3986471f6a"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part019",
+      "size": 10485760,
+      "md5": "ca3453dec4d89afa1fe0e5efde075cec"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part020",
+      "size": 10485760,
+      "md5": "3161366abef3b18bd4bc4d98b90fad89"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part021",
+      "size": 10485760,
+      "md5": "cc66ec29b0aa5d88726f7eac9db1d69e"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part022",
+      "size": 10485760,
+      "md5": "13551c9eab2b7a13a3e7de982b2a83e1"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part023",
+      "size": 10485760,
+      "md5": "0633203b848bb0fddd88c191456cc2da"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part024",
+      "size": 10485760,
+      "md5": "fa132e1f624fc4f8678033c5fc179df9"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part025",
+      "size": 10485760,
+      "md5": "e9d52d3395483543a2b6238e2cd5f8c2"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part026",
+      "size": 10485760,
+      "md5": "b8def6a68212a0c8bd1f37bd97ade956"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part027",
+      "size": 10485760,
+      "md5": "3966c2401495704274edf696e1486172"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part028",
+      "size": 10485760,
+      "md5": "c8080cc71b497138f799ebd975b50f83"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part029",
+      "size": 10485760,
+      "md5": "bfe275ccc558f3a999e42447212b164e"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part030",
+      "size": 10485760,
+      "md5": "92cd7260bd5096a48baaa31308ec5ceb"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part031",
+      "size": 10485760,
+      "md5": "c68346c54093d3a0da9d8d9ec90c31d1"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part032",
+      "size": 10485760,
+      "md5": "a63dcec754abcce51890998774b9a77e"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part033",
+      "size": 10485760,
+      "md5": "7a28c5e9baf886b91ab7ba7d14130be4"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part034",
+      "size": 10485760,
+      "md5": "01ec654b817a4d7719878f9d33914842"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part035",
+      "size": 10485760,
+      "md5": "39d4bd73380d425c42a4675dfd0c0e3c"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part036",
+      "size": 10485760,
+      "md5": "9809dec7e54e9af52dc5ef2c25b2fd5b"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part037",
+      "size": 10485760,
+      "md5": "8301f4e3301a762e9ef16741c8b4d9fd"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part038",
+      "size": 10485760,
+      "md5": "7d993dbf8788513ec6260d2be1dbff98"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part039",
+      "size": 10485760,
+      "md5": "2906293ff17ec58727d7b7caf60fe423"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part040",
+      "size": 10485760,
+      "md5": "d0c3f2d96aac706c6d8959aea348ac4e"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part041",
+      "size": 10485760,
+      "md5": "8f6d205d1219e8422426f59574dca26c"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part042",
+      "size": 10485760,
+      "md5": "9740347d5e838bf394b6a7b77a6dea21"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part043",
+      "size": 10485760,
+      "md5": "e0aa0ece6b0ce6f5cb71b1c865b01b11"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part044",
+      "size": 10485760,
+      "md5": "95347bb68b4f174d784cd2a3033f7001"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part045",
+      "size": 10485760,
+      "md5": "0f214ebf796e51d67caa6cab3b5dbe28"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part046",
+      "size": 10485760,
+      "md5": "3c74ac2cdb24675844885748438ddd97"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part047",
+      "size": 10485760,
+      "md5": "a7141c86ab6ef946a2dc7812d6e3d645"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part048",
+      "size": 10485760,
+      "md5": "4241a43b62877cd66b89cda4d21e75ad"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part049",
+      "size": 10485760,
+      "md5": "e62aacee41708f48a073e153835d7547"
+    },
+    {
+      "name": "tony-hawks-pro-skater-4-europe.zip.part050",
+      "size": 7403697,
+      "md5": "dddbd23920e5c350d644219914ae064a"
+    }
+  ]
+}
