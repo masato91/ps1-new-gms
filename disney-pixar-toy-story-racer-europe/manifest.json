@@ -1,0 +1,81 @@
+{
+  "name": "Disney-Pixar Toy Story Racer (Europe)",
+  "system": "psx",
+  "file": "disney-pixar-toy-story-racer-europe.zip",
+  "size": 136956513,
+  "md5": "23bdcb311589d3685eec3c0ea75a1c4b",
+  "uncompressedSize": 259157575,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part000",
+      "size": 10485760,
+      "md5": "d1138233ccab91e32083d94c239ee91d"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part001",
+      "size": 10485760,
+      "md5": "69c0d48f4b4cb0cb9ba9b1fdcae9a064"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part002",
+      "size": 10485760,
+      "md5": "52afd03063f781fc3fc96858d41058f0"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part003",
+      "size": 10485760,
+      "md5": "ad465b3796692610f29654c955d041bb"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part004",
+      "size": 10485760,
+      "md5": "74bf373bcb0f35794c8ef4d00b90e45c"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part005",
+      "size": 10485760,
+      "md5": "cdf256f517970628ed7f5d07892872af"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part006",
+      "size": 10485760,
+      "md5": "9db1443c9607a4345b77c65f698f2785"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part007",
+      "size": 10485760,
+      "md5": "016784b7ffe0acd0306fe89b5c207413"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part008",
+      "size": 10485760,
+      "md5": "14feb0ea11dd69ec0d3a89ce2a2bf243"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part009",
+      "size": 10485760,
+      "md5": "3e20406a2a16a6e2fe686399b51f68c1"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part010",
+      "size": 10485760,
+      "md5": "1d58c212c096a322199927632a403829"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part011",
+      "size": 10485760,
+      "md5": "58efaa7150ac2a47cc4d84c47bd3ac4f"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part012",
+      "size": 10485760,
+      "md5": "8db42067ec1eed8afaf79616585614b3"
+    },
+    {
+      "name": "disney-pixar-toy-story-racer-europe.zip.part013",
+      "size": 641633,
+      "md5": "eb4dd51f53e1c724f6871231a6b3285c"
+    }
+  ]
+}

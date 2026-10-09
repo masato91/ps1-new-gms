@@ -1,0 +1,71 @@
+{
+  "name": "Digimon Digital Card Battle (Europe)",
+  "system": "psx",
+  "file": "digimon-digital-card-battle-europe.zip",
+  "size": 116099852,
+  "md5": "43e80396fb4b81207639eb497fe4bfb7",
+  "uncompressedSize": 215803158,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part000",
+      "size": 10485760,
+      "md5": "d358e4d82fa2923276ebe528ced8510e"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part001",
+      "size": 10485760,
+      "md5": "8c2d26d48ffab3bcbad3e6b32fc4aa2e"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part002",
+      "size": 10485760,
+      "md5": "59e4e47512a7970088d4a94449602cb0"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part003",
+      "size": 10485760,
+      "md5": "1e4d8e6386ce6c297c842b2129f55634"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part004",
+      "size": 10485760,
+      "md5": "6bba8db319aa32eb2b1eed1330f81655"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part005",
+      "size": 10485760,
+      "md5": "a9b4ce42d08cb4d49bcc33f35f1e33d5"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part006",
+      "size": 10485760,
+      "md5": "64b23940fb30fc2fc702dd624bc4c053"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part007",
+      "size": 10485760,
+      "md5": "6d52c11151cc249342e0f37d32dd42d9"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part008",
+      "size": 10485760,
+      "md5": "d3c2cb8b99f37f2fe0f57ce9494f9e0d"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part009",
+      "size": 10485760,
+      "md5": "08a60a3117530f67d10d1a51960ffb43"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part010",
+      "size": 10485760,
+      "md5": "dedd1f7eac1382b6ebee680f052f5376"
+    },
+    {
+      "name": "digimon-digital-card-battle-europe.zip.part011",
+      "size": 756492,
+      "md5": "75fe7e538e07d610efc81d7c57372e06"
+    }
+  ]
+}
