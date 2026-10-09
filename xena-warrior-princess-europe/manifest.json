@@ -1,0 +1,101 @@
+{
+  "name": "Xena - Warrior Princess (Europe)",
+  "system": "psx",
+  "file": "xena-warrior-princess-europe.zip",
+  "size": 185261823,
+  "md5": "ab795b0927cd4d3969a34e7361eed896",
+  "uncompressedSize": 323089634,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "xena-warrior-princess-europe.zip.part000",
+      "size": 10485760,
+      "md5": "528e356353c14a95b6b338cd84adb081"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part001",
+      "size": 10485760,
+      "md5": "5708c3a6346a691d3309074c12fe9f0f"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part002",
+      "size": 10485760,
+      "md5": "deb37293fe294a27361a90b6d8c2cae4"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part003",
+      "size": 10485760,
+      "md5": "d3d24d1d15cff1ef77b2870410f027df"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part004",
+      "size": 10485760,
+      "md5": "15f7a84abfcdc33012a39a6c5d785f42"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part005",
+      "size": 10485760,
+      "md5": "a832c56e8d2abc645747cf4e0c8436f6"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part006",
+      "size": 10485760,
+      "md5": "836a96666da8ea3e784af3394c5e2f65"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part007",
+      "size": 10485760,
+      "md5": "74673dd0205aaf18992718fbef14a001"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part008",
+      "size": 10485760,
+      "md5": "c0da793d2d254e307fe51aa02a1c9493"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part009",
+      "size": 10485760,
+      "md5": "75a26d952ab9b2a2d4e0bc8a196996a3"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part010",
+      "size": 10485760,
+      "md5": "52067813d49c28405ec712a174717d71"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part011",
+      "size": 10485760,
+      "md5": "cd052f729826e35a8f3197954605fde2"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part012",
+      "size": 10485760,
+      "md5": "239e95d314932d7fc18a5842f4e2acaa"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part013",
+      "size": 10485760,
+      "md5": "170c69753385b5a6b0b7291f52b12ec7"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part014",
+      "size": 10485760,
+      "md5": "98e438b83a23bc4f21b7d5ac5de37c81"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part015",
+      "size": 10485760,
+      "md5": "1c96320337f5266d24b4c11bffb86744"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part016",
+      "size": 10485760,
+      "md5": "6797bd22a2c1f6c8a1a826a6c45f4608"
+    },
+    {
+      "name": "xena-warrior-princess-europe.zip.part017",
+      "size": 7003903,
+      "md5": "5b8feca1a1161804edc965f3680a2d4f"
+    }
+  ]
+}
