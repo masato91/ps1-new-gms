@@ -1,0 +1,116 @@
+{
+  "name": "Duke Nukem - Time to Kill (Europe)",
+  "system": "psx",
+  "file": "duke-nukem-time-to-kill-europe.zip",
+  "size": 214036402,
+  "md5": "bbe29e554e546de12a9e680470a15799",
+  "uncompressedSize": 449773060,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part000",
+      "size": 10485760,
+      "md5": "e4afdc25fb44acae3a2b2d57abb1b651"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part001",
+      "size": 10485760,
+      "md5": "a6ce7f88531ed95b8f478ecac07e8414"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part002",
+      "size": 10485760,
+      "md5": "ac3f4e1745de1f503a1127527aea4bf3"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part003",
+      "size": 10485760,
+      "md5": "610d3c38448e5e5bdbf57cf2b40a8d32"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part004",
+      "size": 10485760,
+      "md5": "a12cca45b78b3867a9150166d49c8761"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part005",
+      "size": 10485760,
+      "md5": "cab9b199c01a6762b6e57c501803e7ce"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part006",
+      "size": 10485760,
+      "md5": "a41aaec47b45dd1f265b1908dec09834"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part007",
+      "size": 10485760,
+      "md5": "397d5610de33078259e41d7fe9e484a9"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part008",
+      "size": 10485760,
+      "md5": "c195369d3b9558fda2bddd7b4f62ec0e"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part009",
+      "size": 10485760,
+      "md5": "6f9a74be6d39726a20842660369a6550"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part010",
+      "size": 10485760,
+      "md5": "405d7451747f9cb2fcc1c549bf826d1e"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part011",
+      "size": 10485760,
+      "md5": "57c60f32e1c63487f7f579a705869d56"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part012",
+      "size": 10485760,
+      "md5": "67703502f30287316098f3a3d74812a4"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part013",
+      "size": 10485760,
+      "md5": "cf9d133c1938e699072ff865af154198"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part014",
+      "size": 10485760,
+      "md5": "861bf8eef4c434ede48e6283d11c8676"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part015",
+      "size": 10485760,
+      "md5": "29f5ccf150eeda94f5f8289096ac41c1"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part016",
+      "size": 10485760,
+      "md5": "5ce0e887e9bb0fb26e10e48b181c3acd"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part017",
+      "size": 10485760,
+      "md5": "b2bed5827a1b46dd95a7496aadfa9b7c"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part018",
+      "size": 10485760,
+      "md5": "d44c53451c73677cbfa00730f7e0e100"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part019",
+      "size": 10485760,
+      "md5": "8b926a6385ccd753e6282cd798a1e190"
+    },
+    {
+      "name": "duke-nukem-time-to-kill-europe.zip.part020",
+      "size": 4321202,
+      "md5": "a769e274d2a107944407dade7489143f"
+    }
+  ]
+}
