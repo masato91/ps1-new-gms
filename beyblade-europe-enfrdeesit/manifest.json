@@ -1,0 +1,111 @@
+{
+  "name": "Beyblade (Europe) (EnFrDeEsIt)",
+  "system": "psx",
+  "file": "beyblade-europe-enfrdeesit.zip",
+  "size": 203286677,
+  "md5": "e3d855df9f05d0cd1bc6359933cdb988",
+  "uncompressedSize": 297766430,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part000",
+      "size": 10485760,
+      "md5": "661227046ad389dc421db038376483e4"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part001",
+      "size": 10485760,
+      "md5": "7fb52fb2a194666e920363a0079105dc"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part002",
+      "size": 10485760,
+      "md5": "ed56cad8ab23929f0d951db1dea7af79"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part003",
+      "size": 10485760,
+      "md5": "a274f6bf7fcee46d79a478aa6b8be94a"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part004",
+      "size": 10485760,
+      "md5": "a0ab6d198e97c552298da38e29185ed0"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part005",
+      "size": 10485760,
+      "md5": "ad4adac0d0d34d86d337fcf87fe99d54"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part006",
+      "size": 10485760,
+      "md5": "4953299c5f0774558998c1bd565c472c"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part007",
+      "size": 10485760,
+      "md5": "d5d285bdcf87c0abdb67b791ebf01d79"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part008",
+      "size": 10485760,
+      "md5": "38d7ade20a9e5371c253ae9434ad31d6"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part009",
+      "size": 10485760,
+      "md5": "794a139e7480104931ec0ffd12d4b442"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part010",
+      "size": 10485760,
+      "md5": "dfac33bf9ba69f6d008517a4eb71f631"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part011",
+      "size": 10485760,
+      "md5": "a1586f107e139c616c6524a8224648e9"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part012",
+      "size": 10485760,
+      "md5": "3caf5b71dd6bc6ba8dc204c498c9b1af"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part013",
+      "size": 10485760,
+      "md5": "691929846b86fb3d9ab643de14cf2150"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part014",
+      "size": 10485760,
+      "md5": "3fadd30274d01e3552ddde312878074e"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part015",
+      "size": 10485760,
+      "md5": "d14572bf778c53ce629bf08ca8cfe420"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part016",
+      "size": 10485760,
+      "md5": "0c0951f3c4e115666eb049119beadca5"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part017",
+      "size": 10485760,
+      "md5": "4ee5e34902f1cf1e9eaeaf52d2dd7752"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part018",
+      "size": 10485760,
+      "md5": "ebd2c77c57c088399309af4a79b3b570"
+    },
+    {
+      "name": "beyblade-europe-enfrdeesit.zip.part019",
+      "size": 4057237,
+      "md5": "e50ed4ddb9a1f1212e00ad1a6b4a67a8"
+    }
+  ]
+}

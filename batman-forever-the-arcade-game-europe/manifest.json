@@ -1,0 +1,36 @@
+{
+  "name": "Batman Forever - The Arcade Game (Europe)",
+  "system": "psx",
+  "file": "batman-forever-the-arcade-game-europe.zip",
+  "size": 45052448,
+  "md5": "b2b2761588023e0cf17ca165d19ccc32",
+  "uncompressedSize": 68434044,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "batman-forever-the-arcade-game-europe.zip.part000",
+      "size": 10485760,
+      "md5": "dbe3dfa6c854f3c0387450bf86d75cef"
+    },
+    {
+      "name": "batman-forever-the-arcade-game-europe.zip.part001",
+      "size": 10485760,
+      "md5": "2f2fc9890d466af3666f4fb90c13abf2"
+    },
+    {
+      "name": "batman-forever-the-arcade-game-europe.zip.part002",
+      "size": 10485760,
+      "md5": "38cced294006e337317dccbc4e1b97bb"
+    },
+    {
+      "name": "batman-forever-the-arcade-game-europe.zip.part003",
+      "size": 10485760,
+      "md5": "42cdfecd92845c0d377f910353e01ec6"
+    },
+    {
+      "name": "batman-forever-the-arcade-game-europe.zip.part004",
+      "size": 3109408,
+      "md5": "5f81695b74ff5969f4d6b14bec272685"
+    }
+  ]
+}

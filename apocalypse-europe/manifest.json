@@ -1,0 +1,131 @@
+{
+  "name": "Apocalypse (Europe)",
+  "system": "psx",
+  "file": "apocalypse-europe.zip",
+  "size": 245940776,
+  "md5": "f2c8365c6a480fc844528ee75435ecf0",
+  "uncompressedSize": 491857504,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "apocalypse-europe.zip.part000",
+      "size": 10485760,
+      "md5": "610466980e32bdacb985988f181850e4"
+    },
+    {
+      "name": "apocalypse-europe.zip.part001",
+      "size": 10485760,
+      "md5": "7f5eae4524384041386c9d01a2ae3c22"
+    },
+    {
+      "name": "apocalypse-europe.zip.part002",
+      "size": 10485760,
+      "md5": "648691af7c033e1cc55d460a7ebd1670"
+    },
+    {
+      "name": "apocalypse-europe.zip.part003",
+      "size": 10485760,
+      "md5": "043c91b8f9822ac81f29f000ff6d066d"
+    },
+    {
+      "name": "apocalypse-europe.zip.part004",
+      "size": 10485760,
+      "md5": "dcaf1ee832103e31a00205dc755eefc5"
+    },
+    {
+      "name": "apocalypse-europe.zip.part005",
+      "size": 10485760,
+      "md5": "259cb2ceafbfe66bdc22e7f49678c38b"
+    },
+    {
+      "name": "apocalypse-europe.zip.part006",
+      "size": 10485760,
+      "md5": "0205d913406faffb9351bd6693089e84"
+    },
+    {
+      "name": "apocalypse-europe.zip.part007",
+      "size": 10485760,
+      "md5": "8558c2e91aa4644d39f9e8695559962d"
+    },
+    {
+      "name": "apocalypse-europe.zip.part008",
+      "size": 10485760,
+      "md5": "25df035abb067ff5b81a010f053f4f2e"
+    },
+    {
+      "name": "apocalypse-europe.zip.part009",
+      "size": 10485760,
+      "md5": "13640ac60dbf6ffff6b7527fed7f6f1c"
+    },
+    {
+      "name": "apocalypse-europe.zip.part010",
+      "size": 10485760,
+      "md5": "c974c4ba80f05fba976168654975b452"
+    },
+    {
+      "name": "apocalypse-europe.zip.part011",
+      "size": 10485760,
+      "md5": "6c41943b8d55de3a979f84b9a9fc0912"
+    },
+    {
+      "name": "apocalypse-europe.zip.part012",
+      "size": 10485760,
+      "md5": "d1b68b032f1380d32c92a807dbb44e44"
+    },
+    {
+      "name": "apocalypse-europe.zip.part013",
+      "size": 10485760,
+      "md5": "f1abc7dfb363080b5814d6398fce0e30"
+    },
+    {
+      "name": "apocalypse-europe.zip.part014",
+      "size": 10485760,
+      "md5": "dad7be2a564e795ce05b61784b621f33"
+    },
+    {
+      "name": "apocalypse-europe.zip.part015",
+      "size": 10485760,
+      "md5": "4c119782cef1c9ee161df09fa0236cce"
+    },
+    {
+      "name": "apocalypse-europe.zip.part016",
+      "size": 10485760,
+      "md5": "c27b2dbb716a12cb12a4f0e17dc10590"
+    },
+    {
+      "name": "apocalypse-europe.zip.part017",
+      "size": 10485760,
+      "md5": "b497d7b34bfb61f874eef0cc18d8db38"
+    },
+    {
+      "name": "apocalypse-europe.zip.part018",
+      "size": 10485760,
+      "md5": "915c487a14f796615e9b723f4d497325"
+    },
+    {
+      "name": "apocalypse-europe.zip.part019",
+      "size": 10485760,
+      "md5": "fbe316ad08137591ab165b4d40538e8d"
+    },
+    {
+      "name": "apocalypse-europe.zip.part020",
+      "size": 10485760,
+      "md5": "8f7862529b8b484655ac1520330774ec"
+    },
+    {
+      "name": "apocalypse-europe.zip.part021",
+      "size": 10485760,
+      "md5": "a53f38b0e5cc84726ee150fc06f646d2"
+    },
+    {
+      "name": "apocalypse-europe.zip.part022",
+      "size": 10485760,
+      "md5": "544b42482383754db2235784eb2a3473"
+    },
+    {
+      "name": "apocalypse-europe.zip.part023",
+      "size": 4768296,
+      "md5": "9bd2955fc0d656b3c4f28a6674b31887"
+    }
+  ]
+}

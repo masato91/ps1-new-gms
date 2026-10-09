@@ -1,0 +1,86 @@
+{
+  "name": "Bishi Bashi Special (Europe)",
+  "system": "psx",
+  "file": "bishi-bashi-special-europe.zip",
+  "size": 149635034,
+  "md5": "803bce1c0a20845b8ec171918cd4db4f",
+  "uncompressedSize": 207658174,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "bishi-bashi-special-europe.zip.part000",
+      "size": 10485760,
+      "md5": "513cdfeea7b43a89b974f459258d7502"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part001",
+      "size": 10485760,
+      "md5": "7f294e4643a9ee6306cf575c56f324dd"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part002",
+      "size": 10485760,
+      "md5": "6eb3ac0815e2504eddb6e71f7a663ac4"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part003",
+      "size": 10485760,
+      "md5": "d57d8e59cb841cb675d9f23a2b24365d"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part004",
+      "size": 10485760,
+      "md5": "9e8b0eadae85018130284077f9a4b998"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part005",
+      "size": 10485760,
+      "md5": "69cc0d41ce508eb8d25f530c64f37c13"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part006",
+      "size": 10485760,
+      "md5": "da5f7fa742d4ee569f3805bec3bcb6c6"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part007",
+      "size": 10485760,
+      "md5": "d926e1739e7570e96eb78cffe15cc0ff"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part008",
+      "size": 10485760,
+      "md5": "bdf5d6a59e779b98a6366b31b2a8078c"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part009",
+      "size": 10485760,
+      "md5": "0f9aa20c62e7abb5a5e146ad935faf32"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part010",
+      "size": 10485760,
+      "md5": "5f4495645491367e033c1443551f912e"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part011",
+      "size": 10485760,
+      "md5": "bb612b1491ce0ddf667e38646b917b1e"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part012",
+      "size": 10485760,
+      "md5": "26449e5315f6add26d5c987535efe476"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part013",
+      "size": 10485760,
+      "md5": "d433a21c1d37e3558c367b9bced64342"
+    },
+    {
+      "name": "bishi-bashi-special-europe.zip.part014",
+      "size": 2834394,
+      "md5": "c5f0fc19b868f8b8792e5aae911a45ba"
+    }
+  ]
+}
