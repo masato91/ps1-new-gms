@@ -1,0 +1,131 @@
+{
+  "name": "Clock Tower (Europe)",
+  "system": "psx",
+  "file": "clock-tower-europe.zip",
+  "size": 247474661,
+  "md5": "2a20f2a2b41bab60d49ccd79ddc7069f",
+  "uncompressedSize": 666443990,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "clock-tower-europe.zip.part000",
+      "size": 10485760,
+      "md5": "383744f6f3192bad15434e82cf99ed86"
+    },
+    {
+      "name": "clock-tower-europe.zip.part001",
+      "size": 10485760,
+      "md5": "98ee289dcacec6ee1ad041d574e1877e"
+    },
+    {
+      "name": "clock-tower-europe.zip.part002",
+      "size": 10485760,
+      "md5": "efd2d9d03c1ca0cad7cf02b04f9644be"
+    },
+    {
+      "name": "clock-tower-europe.zip.part003",
+      "size": 10485760,
+      "md5": "ad50f3f9222e11ce746fac6d24cf0d0e"
+    },
+    {
+      "name": "clock-tower-europe.zip.part004",
+      "size": 10485760,
+      "md5": "a4a6eadf651712d92cd163390339169f"
+    },
+    {
+      "name": "clock-tower-europe.zip.part005",
+      "size": 10485760,
+      "md5": "b147d95017c855af8f6a69d0368405fa"
+    },
+    {
+      "name": "clock-tower-europe.zip.part006",
+      "size": 10485760,
+      "md5": "76389472541128837a3a673bd1ea4b43"
+    },
+    {
+      "name": "clock-tower-europe.zip.part007",
+      "size": 10485760,
+      "md5": "40aad12baffe02f844c2db7e4d5af17c"
+    },
+    {
+      "name": "clock-tower-europe.zip.part008",
+      "size": 10485760,
+      "md5": "12283e498744126a65fb1c8d097236a5"
+    },
+    {
+      "name": "clock-tower-europe.zip.part009",
+      "size": 10485760,
+      "md5": "5ccd11849e02410c394fea1c9cd7da3b"
+    },
+    {
+      "name": "clock-tower-europe.zip.part010",
+      "size": 10485760,
+      "md5": "7f883055f0cd30d74761c2d9c142623f"
+    },
+    {
+      "name": "clock-tower-europe.zip.part011",
+      "size": 10485760,
+      "md5": "448c30764a830c26609f6efa72a46c4a"
+    },
+    {
+      "name": "clock-tower-europe.zip.part012",
+      "size": 10485760,
+      "md5": "c2a2095b303c89def4434ee993664da0"
+    },
+    {
+      "name": "clock-tower-europe.zip.part013",
+      "size": 10485760,
+      "md5": "c9db14c95c761c4ee827e98b4d48af98"
+    },
+    {
+      "name": "clock-tower-europe.zip.part014",
+      "size": 10485760,
+      "md5": "3301a82c5fd55dd5fa0e1b45475cd257"
+    },
+    {
+      "name": "clock-tower-europe.zip.part015",
+      "size": 10485760,
+      "md5": "0171e8654f20e11809cc8c733894eb6d"
+    },
+    {
+      "name": "clock-tower-europe.zip.part016",
+      "size": 10485760,
+      "md5": "4ac781bc1fe1935f79f0fc05a78284e5"
+    },
+    {
+      "name": "clock-tower-europe.zip.part017",
+      "size": 10485760,
+      "md5": "ce5a187aa7545a017c0ccf45190a87a7"
+    },
+    {
+      "name": "clock-tower-europe.zip.part018",
+      "size": 10485760,
+      "md5": "4a747441302fa530626ae42d296e7e5a"
+    },
+    {
+      "name": "clock-tower-europe.zip.part019",
+      "size": 10485760,
+      "md5": "d0e206025f023350fdfcebb600985052"
+    },
+    {
+      "name": "clock-tower-europe.zip.part020",
+      "size": 10485760,
+      "md5": "2d1cf613a5ccf936c8bc2a9465b18919"
+    },
+    {
+      "name": "clock-tower-europe.zip.part021",
+      "size": 10485760,
+      "md5": "9858a747a08bd3d0bb0ea07480079b18"
+    },
+    {
+      "name": "clock-tower-europe.zip.part022",
+      "size": 10485760,
+      "md5": "e40f633370ff693141b048f702e8cb29"
+    },
+    {
+      "name": "clock-tower-europe.zip.part023",
+      "size": 6302181,
+      "md5": "63f7d0fc9d2487804ccd5947ac809c5a"
+    }
+  ]
+}
