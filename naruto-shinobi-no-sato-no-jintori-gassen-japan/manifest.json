@@ -1,0 +1,56 @@
+{
+  "name": "Naruto - Shinobi no Sato no Jintori Gassen (Japan)",
+  "system": "psx",
+  "file": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip",
+  "size": 90027059,
+  "md5": "13a6a5190d40f11ba8e93be155f090f9",
+  "uncompressedSize": 325989668,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part000",
+      "size": 10485760,
+      "md5": "f5f099db48011a384d849a63054f9fbb"
+    },
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part001",
+      "size": 10485760,
+      "md5": "4f2ee9c531d9008fbaab347a5552df51"
+    },
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part002",
+      "size": 10485760,
+      "md5": "8f06fc4e6d2df63f0309f2a208dd7ea0"
+    },
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part003",
+      "size": 10485760,
+      "md5": "8507d189d59ad574bf55b2579e70acb6"
+    },
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part004",
+      "size": 10485760,
+      "md5": "16e425e1a93b0abfc737f6e23a776630"
+    },
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part005",
+      "size": 10485760,
+      "md5": "2c057cc476f797e11f08e060e0420a2c"
+    },
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part006",
+      "size": 10485760,
+      "md5": "52a5f3f049be0cdbefafcec25e787e57"
+    },
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part007",
+      "size": 10485760,
+      "md5": "b581038693c04d2db83ca56d320301bb"
+    },
+    {
+      "name": "naruto-shinobi-no-sato-no-jintori-gassen-japan.zip.part008",
+      "size": 6140979,
+      "md5": "99d0fea11a5e7af62992df3e3461bf3c"
+    }
+  ]
+}
