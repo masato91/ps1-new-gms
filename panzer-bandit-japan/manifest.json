@@ -1,0 +1,61 @@
+{
+  "name": "Panzer Bandit (Japan)",
+  "system": "psx",
+  "file": "panzer-bandit-japan.zip",
+  "size": 99624778,
+  "md5": "f011071b084c9600be34e83091390744",
+  "uncompressedSize": 284625140,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "panzer-bandit-japan.zip.part000",
+      "size": 10485760,
+      "md5": "db3c8c834914176197e0d86a8191bf79"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part001",
+      "size": 10485760,
+      "md5": "58ebd8eaa2ad0dd9f12a854e356617fc"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part002",
+      "size": 10485760,
+      "md5": "c9a52cbc298d7b28ef77266c5afa221a"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part003",
+      "size": 10485760,
+      "md5": "ef3951ff53a4466cee9a53aa22fa2af5"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part004",
+      "size": 10485760,
+      "md5": "5c4dff4f2b0e28fe5f35215cc37b717f"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part005",
+      "size": 10485760,
+      "md5": "475be1b2a9d8e70015b3b60de6111ba4"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part006",
+      "size": 10485760,
+      "md5": "d8b6d536261a0befb879a3a5a93273f9"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part007",
+      "size": 10485760,
+      "md5": "74d94628250c9919ce5843e14393cd09"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part008",
+      "size": 10485760,
+      "md5": "e30929f45e0f5d94f5b4d44b583de905"
+    },
+    {
+      "name": "panzer-bandit-japan.zip.part009",
+      "size": 5252938,
+      "md5": "69ab9142ff256e5861260e99fb90a193"
+    }
+  ]
+}
