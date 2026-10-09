@@ -1,0 +1,121 @@
+{
+  "name": "Guilty Gear (Europe)",
+  "system": "psx",
+  "file": "guilty-gear-europe.zip",
+  "size": 229377460,
+  "md5": "60f75d5aaadaba816ad3cbd410c42dcd",
+  "uncompressedSize": 343721490,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "guilty-gear-europe.zip.part000",
+      "size": 10485760,
+      "md5": "dbeb5cfffe1f9e8ca2215262fbde63ff"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part001",
+      "size": 10485760,
+      "md5": "48dadc2fa265d04dc7e713e8bb2d299a"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part002",
+      "size": 10485760,
+      "md5": "64f60825c1dce72229180102a136bd76"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part003",
+      "size": 10485760,
+      "md5": "454614913c71f1305b44abfbbc109fe4"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part004",
+      "size": 10485760,
+      "md5": "ef64197962b3b30303aad3f6e9e71d94"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part005",
+      "size": 10485760,
+      "md5": "ffd5568ab7fc60f6481d5ad89d4e0387"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part006",
+      "size": 10485760,
+      "md5": "6b79664f9a95430bf3fa2610b87bd7e7"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part007",
+      "size": 10485760,
+      "md5": "9d50dd2892e50c1b8c4ec9145dce0d5d"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part008",
+      "size": 10485760,
+      "md5": "5a5609c52209b1476a262a4f5c5d6c82"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part009",
+      "size": 10485760,
+      "md5": "378554e1ca9985d5a1acd71784474ccb"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part010",
+      "size": 10485760,
+      "md5": "011a9c58bde577c4edc28ccff4488fd1"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part011",
+      "size": 10485760,
+      "md5": "2f14ca20522bae9d501f3a53a2c799a9"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part012",
+      "size": 10485760,
+      "md5": "8e7ec13973eee5bbda376d2e25727f4d"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part013",
+      "size": 10485760,
+      "md5": "d5b41f2995d506af03b11c6ee050fae3"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part014",
+      "size": 10485760,
+      "md5": "fdf1186c914954b0df9adda1e7807930"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part015",
+      "size": 10485760,
+      "md5": "dff182917ceb9a9f917a85d8e9f59185"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part016",
+      "size": 10485760,
+      "md5": "e0bee522a4a73072bfb98962dc8a99aa"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part017",
+      "size": 10485760,
+      "md5": "3660db5beef1fd6b3f0289ef8074b0c1"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part018",
+      "size": 10485760,
+      "md5": "e6fcb308dbde46f5530315287a8fa1bc"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part019",
+      "size": 10485760,
+      "md5": "03fa81e4a1c6417dc2d3feeff36faf33"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part020",
+      "size": 10485760,
+      "md5": "a7a9443fd2a5d2e25aa44ac38bbd4630"
+    },
+    {
+      "name": "guilty-gear-europe.zip.part021",
+      "size": 9176500,
+      "md5": "7275c1569ffdf78fb9f60b2ab024f9bd"
+    }
+  ]
+}

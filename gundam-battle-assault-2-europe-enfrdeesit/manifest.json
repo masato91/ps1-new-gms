@@ -1,0 +1,81 @@
+{
+  "name": "Gundam Battle Assault 2 (Europe) (EnFrDeEsIt)",
+  "system": "psx",
+  "file": "gundam-battle-assault-2-europe-enfrdeesit.zip",
+  "size": 137021235,
+  "md5": "e519dfbfc8c1420532f8d5f681f76581",
+  "uncompressedSize": 381193612,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part000",
+      "size": 10485760,
+      "md5": "5eb60d3711c193c822bba2f21dbea56e"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part001",
+      "size": 10485760,
+      "md5": "125fb31c0f6f865ffce790dee1adfef5"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part002",
+      "size": 10485760,
+      "md5": "5728405ae513fb52895cf0af410d32d4"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part003",
+      "size": 10485760,
+      "md5": "2d592484460ece13463921664cb5f699"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part004",
+      "size": 10485760,
+      "md5": "89c7f894f3710d212c81851e959d8ace"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part005",
+      "size": 10485760,
+      "md5": "0b9dda6d3d51da59f719388f6210bb0d"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part006",
+      "size": 10485760,
+      "md5": "6acccc45924895aeaf94e02540c0d8a0"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part007",
+      "size": 10485760,
+      "md5": "fc5d2dc8f81db010d6ae922d133e4f31"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part008",
+      "size": 10485760,
+      "md5": "7f73f0446e90b6a3fda3c5f723779ddc"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part009",
+      "size": 10485760,
+      "md5": "d141c94dae12fbdc4039db3c2e0ab29b"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part010",
+      "size": 10485760,
+      "md5": "c4b165db315e7614469736d1baba66b2"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part011",
+      "size": 10485760,
+      "md5": "255f2dbcddb1c7a06c6acb1622e14449"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part012",
+      "size": 10485760,
+      "md5": "86797f19abca8843f65329c68dcd29ce"
+    },
+    {
+      "name": "gundam-battle-assault-2-europe-enfrdeesit.zip.part013",
+      "size": 706355,
+      "md5": "443e7e536431e627e8eebb9f115d7b40"
+    }
+  ]
+}
