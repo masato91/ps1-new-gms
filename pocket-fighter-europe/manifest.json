@@ -1,0 +1,91 @@
+{
+  "name": "Pocket Fighter (Europe)",
+  "system": "psx",
+  "file": "pocket-fighter-europe.zip",
+  "size": 160714942,
+  "md5": "896e61d8936c9891811991bfae3c624b",
+  "uncompressedSize": 265964376,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "pocket-fighter-europe.zip.part000",
+      "size": 10485760,
+      "md5": "1a935d48d534ac395369af30d33c6510"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part001",
+      "size": 10485760,
+      "md5": "4d285e7438f3fb79b9c4caf0f17d48e9"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part002",
+      "size": 10485760,
+      "md5": "fa3316df3ca4add2e4921265df0ce0cf"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part003",
+      "size": 10485760,
+      "md5": "39b34dd6c35029b1dbb066ecde282d42"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part004",
+      "size": 10485760,
+      "md5": "2cd0df576ddc293b9ecffec663761296"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part005",
+      "size": 10485760,
+      "md5": "2ca3e24c850ffc856973127f7d63aa66"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part006",
+      "size": 10485760,
+      "md5": "3e3d4aca73be36cd64e0a4c97e904902"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part007",
+      "size": 10485760,
+      "md5": "861501d4a6dc0703eeb2f73155a23f65"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part008",
+      "size": 10485760,
+      "md5": "794dde793058e837445cb447b438ecaa"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part009",
+      "size": 10485760,
+      "md5": "49f8c0c078f74e9812c1f0d49ee671fc"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part010",
+      "size": 10485760,
+      "md5": "b6fb4f4e13dffe4b5e640fa4446b636f"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part011",
+      "size": 10485760,
+      "md5": "9afd5464d63de19137630e9fabe71ce5"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part012",
+      "size": 10485760,
+      "md5": "9d496470d7c046278e2ba7932952ac44"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part013",
+      "size": 10485760,
+      "md5": "ab0a205531dd8ada86dad11a8408cee2"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part014",
+      "size": 10485760,
+      "md5": "c83062f4ac517b82cb313eee47150dc6"
+    },
+    {
+      "name": "pocket-fighter-europe.zip.part015",
+      "size": 3428542,
+      "md5": "49a5b722d73066408c86b2b89ca20c33"
+    }
+  ]
+}
