@@ -1,0 +1,106 @@
+{
+  "name": "Resident Evil - Survivor (Europe)",
+  "system": "psx",
+  "file": "resident-evil-survivor-europe.zip",
+  "size": 189106592,
+  "md5": "ac0e6a0a3ee4633c921c815a87d9a957",
+  "uncompressedSize": 425693283,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "resident-evil-survivor-europe.zip.part000",
+      "size": 10485760,
+      "md5": "837cd4554e9792e847056a46b1a4dfe1"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part001",
+      "size": 10485760,
+      "md5": "54accf1e42a612aea8ebe27951d440fc"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part002",
+      "size": 10485760,
+      "md5": "c1387eb1638e918f710e0f375a2a77ae"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part003",
+      "size": 10485760,
+      "md5": "937de751be34022ac1075a7a3039ad82"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part004",
+      "size": 10485760,
+      "md5": "d8981ce296de63d97ae376140e95959e"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part005",
+      "size": 10485760,
+      "md5": "f50083b9e4a2652ed3fe2e9f29dd7404"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part006",
+      "size": 10485760,
+      "md5": "8756c1cb9e6d03bb91ce34ba7d7d1c46"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part007",
+      "size": 10485760,
+      "md5": "e2a9ad229e5322bec6265eb2ffea1afe"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part008",
+      "size": 10485760,
+      "md5": "810e0023a9c9e7af1b3e4729e795461e"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part009",
+      "size": 10485760,
+      "md5": "71e5869959d645b437203be830be3b4c"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part010",
+      "size": 10485760,
+      "md5": "c033afd9124d4e62991f1dc746dbc8d2"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part011",
+      "size": 10485760,
+      "md5": "c0175cc767b63f2f7b64f37c11556e0d"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part012",
+      "size": 10485760,
+      "md5": "13986ace26d6b9cffad8e534161b42c4"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part013",
+      "size": 10485760,
+      "md5": "920e88ca5a226afa2029fe055069660f"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part014",
+      "size": 10485760,
+      "md5": "796a9267c86ff33ce2ebfc75d6a8e3cf"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part015",
+      "size": 10485760,
+      "md5": "b301b960b083921d34b620e3dd6dba0d"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part016",
+      "size": 10485760,
+      "md5": "e7cee532e14d221056935617b4d5a7b8"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part017",
+      "size": 10485760,
+      "md5": "58951b088985b4ee87dc8d8b6673450f"
+    },
+    {
+      "name": "resident-evil-survivor-europe.zip.part018",
+      "size": 362912,
+      "md5": "7ef68f2495c1ad7252385d1a30a4ad95"
+    }
+  ]
+}
