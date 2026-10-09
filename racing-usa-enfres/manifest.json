@@ -1,0 +1,46 @@
+{
+  "name": "Racing (USA) (EnFrEs)",
+  "system": "psx",
+  "file": "racing-usa-enfres.zip",
+  "size": 63825553,
+  "md5": "d022860ff6392fd62de9bd5f31f404e1",
+  "uncompressedSize": 160105433,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "racing-usa-enfres.zip.part000",
+      "size": 10485760,
+      "md5": "04efb8423b822d330a81ee63010bdff2"
+    },
+    {
+      "name": "racing-usa-enfres.zip.part001",
+      "size": 10485760,
+      "md5": "35a6d7aba4f57f753e553eb3a4813797"
+    },
+    {
+      "name": "racing-usa-enfres.zip.part002",
+      "size": 10485760,
+      "md5": "03a509cd6a7ebec511907ff91d1d49f8"
+    },
+    {
+      "name": "racing-usa-enfres.zip.part003",
+      "size": 10485760,
+      "md5": "16030adab03a1d778fe58e6a8a8d2e62"
+    },
+    {
+      "name": "racing-usa-enfres.zip.part004",
+      "size": 10485760,
+      "md5": "0d54af80ac73595583fbf573f5b6dccb"
+    },
+    {
+      "name": "racing-usa-enfres.zip.part005",
+      "size": 10485760,
+      "md5": "d6641c335a522d0af76b65de5d23a8eb"
+    },
+    {
+      "name": "racing-usa-enfres.zip.part006",
+      "size": 910993,
+      "md5": "b9f791452b082533042eeb808ef4bed6"
+    }
+  ]
+}

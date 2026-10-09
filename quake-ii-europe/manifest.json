@@ -1,0 +1,116 @@
+{
+  "name": "Quake II (Europe)",
+  "system": "psx",
+  "file": "quake-ii-europe.zip",
+  "size": 213644659,
+  "md5": "cf0669a7c577826508b30600d9970605",
+  "uncompressedSize": 350201244,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "quake-ii-europe.zip.part000",
+      "size": 10485760,
+      "md5": "a2aabbeb98bd96f6ec8c4b38fb60a25d"
+    },
+    {
+      "name": "quake-ii-europe.zip.part001",
+      "size": 10485760,
+      "md5": "705a5baf89f04ed6cf2e3c3276484513"
+    },
+    {
+      "name": "quake-ii-europe.zip.part002",
+      "size": 10485760,
+      "md5": "e5f603f399f099d9f366e0dd1d82bd1e"
+    },
+    {
+      "name": "quake-ii-europe.zip.part003",
+      "size": 10485760,
+      "md5": "8ac1448318b40562893117cdd6aa8000"
+    },
+    {
+      "name": "quake-ii-europe.zip.part004",
+      "size": 10485760,
+      "md5": "985bb2ae0504093c2d89631d43917141"
+    },
+    {
+      "name": "quake-ii-europe.zip.part005",
+      "size": 10485760,
+      "md5": "ef2b299e25c2c725b4bfa4a7ff9ffb00"
+    },
+    {
+      "name": "quake-ii-europe.zip.part006",
+      "size": 10485760,
+      "md5": "72d5ae02473a9319767a05db1fc73370"
+    },
+    {
+      "name": "quake-ii-europe.zip.part007",
+      "size": 10485760,
+      "md5": "e0e23a2c4eee1c88c8cf48a68026110e"
+    },
+    {
+      "name": "quake-ii-europe.zip.part008",
+      "size": 10485760,
+      "md5": "8a407c8b3a2b0a902720838bcc229524"
+    },
+    {
+      "name": "quake-ii-europe.zip.part009",
+      "size": 10485760,
+      "md5": "112ad2e35775110e218fa3f2676699da"
+    },
+    {
+      "name": "quake-ii-europe.zip.part010",
+      "size": 10485760,
+      "md5": "74f9a207fabe1edf053f4e73e39484dd"
+    },
+    {
+      "name": "quake-ii-europe.zip.part011",
+      "size": 10485760,
+      "md5": "ebdb8b97bc04aff42fcc605505a7ac73"
+    },
+    {
+      "name": "quake-ii-europe.zip.part012",
+      "size": 10485760,
+      "md5": "1121ce57d07058d8aa3c009cb9c3d308"
+    },
+    {
+      "name": "quake-ii-europe.zip.part013",
+      "size": 10485760,
+      "md5": "75ae86fb7fc88b3dd3d9a8080a9a9fdc"
+    },
+    {
+      "name": "quake-ii-europe.zip.part014",
+      "size": 10485760,
+      "md5": "00c782c0018b8f7a3293863eeec6bf09"
+    },
+    {
+      "name": "quake-ii-europe.zip.part015",
+      "size": 10485760,
+      "md5": "78582d699baf3661ae026bb70e82d060"
+    },
+    {
+      "name": "quake-ii-europe.zip.part016",
+      "size": 10485760,
+      "md5": "1f5145c8b0463d61d32094b9c9da4747"
+    },
+    {
+      "name": "quake-ii-europe.zip.part017",
+      "size": 10485760,
+      "md5": "bf77ffc3ea1bb2e892e661429143fedd"
+    },
+    {
+      "name": "quake-ii-europe.zip.part018",
+      "size": 10485760,
+      "md5": "4d7246e649ab37fd17bb78b851d8c96a"
+    },
+    {
+      "name": "quake-ii-europe.zip.part019",
+      "size": 10485760,
+      "md5": "967192d3eb7f3585db5b2d26c05193cd"
+    },
+    {
+      "name": "quake-ii-europe.zip.part020",
+      "size": 3929459,
+      "md5": "f5af751ddd255373887e96cc7be83c0e"
+    }
+  ]
+}

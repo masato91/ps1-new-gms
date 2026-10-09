@@ -1,0 +1,296 @@
+{
+  "name": "Pro Evolution Soccer (Europe) (EnFrDe)",
+  "system": "psx",
+  "file": "pro-evolution-soccer-europe-enfrde.zip",
+  "size": 590622909,
+  "md5": "5282ec35fe6e1ea7d482539a3b848cbd",
+  "uncompressedSize": 744710658,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part000",
+      "size": 10485760,
+      "md5": "9e92d7a7dc4f11000af64f8d893c09e6"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part001",
+      "size": 10485760,
+      "md5": "5ed4f8958086c64bca148d5a760d764a"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part002",
+      "size": 10485760,
+      "md5": "8b54f4bc40e71d7285c9dc6a2865d3ea"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part003",
+      "size": 10485760,
+      "md5": "8c4bb2909dc615e2ab30e21d57321779"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part004",
+      "size": 10485760,
+      "md5": "fec7f7bee86213042f5a0347e6387e81"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part005",
+      "size": 10485760,
+      "md5": "a0e12a8fd01a764c5a193e27c4f7ef69"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part006",
+      "size": 10485760,
+      "md5": "f3e8e29f31d02b3bd84e71d87399bea7"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part007",
+      "size": 10485760,
+      "md5": "a20ca4f99e950423542007ea726889ef"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part008",
+      "size": 10485760,
+      "md5": "b2853b95bd5edd15f021d41248cb115e"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part009",
+      "size": 10485760,
+      "md5": "361449b0babd8604ccdef2e1641dfcba"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part010",
+      "size": 10485760,
+      "md5": "9692dd8e2ab1e5060588bcf874a7c685"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part011",
+      "size": 10485760,
+      "md5": "cdb6af02c0bfe99fa4202150fcc5331d"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part012",
+      "size": 10485760,
+      "md5": "ae4cffcacf0b3b71cf28dd375e4f0b8a"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part013",
+      "size": 10485760,
+      "md5": "0c36abe8d53b178a63fbfce0813d7d85"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part014",
+      "size": 10485760,
+      "md5": "445c81a67f0d5c7ef77b3fdde6d8e7fb"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part015",
+      "size": 10485760,
+      "md5": "ef2073dbedf0d0a0f1ccf0ab808e369b"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part016",
+      "size": 10485760,
+      "md5": "f2978a7a389eb89072d45f207e6065c6"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part017",
+      "size": 10485760,
+      "md5": "f0c723e000030b34b9b32e68896039bd"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part018",
+      "size": 10485760,
+      "md5": "7aea464a9b8eae3933d79bf112991ee9"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part019",
+      "size": 10485760,
+      "md5": "6b58c4de89fd4c267038a5795bc337d2"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part020",
+      "size": 10485760,
+      "md5": "7e8c1beb1a02d95baed04fdcbfd326a4"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part021",
+      "size": 10485760,
+      "md5": "7612c5e817e3cc1dc8b61d19a65fa28d"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part022",
+      "size": 10485760,
+      "md5": "fb1f0da2381ae867dfdc07e5a005f59b"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part023",
+      "size": 10485760,
+      "md5": "10cfaa3d75cb7e2193281d1f18c705e8"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part024",
+      "size": 10485760,
+      "md5": "367e8a1e687ac87954314e4a0ef84f81"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part025",
+      "size": 10485760,
+      "md5": "175a222753eefe78c9637fb0c636fc79"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part026",
+      "size": 10485760,
+      "md5": "2b0f3b83619ad889fd05a26410a0aed5"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part027",
+      "size": 10485760,
+      "md5": "1802a4ee0f947a8c1995c31c0702544b"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part028",
+      "size": 10485760,
+      "md5": "6ddc46d070df9fa8b4fc506dc15ddfcf"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part029",
+      "size": 10485760,
+      "md5": "a2a4b754561b402bd7677b52353d2787"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part030",
+      "size": 10485760,
+      "md5": "46d6d827f0b08854d249aab46266b564"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part031",
+      "size": 10485760,
+      "md5": "a0b49826c613a80327c6163f37ae274e"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part032",
+      "size": 10485760,
+      "md5": "7ab4e122edd27f42704a1f5e0a651bdb"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part033",
+      "size": 10485760,
+      "md5": "b3a26dd49008dfb0ac77ff560843ea28"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part034",
+      "size": 10485760,
+      "md5": "21717b1ee518acc4ac916297f1373237"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part035",
+      "size": 10485760,
+      "md5": "a1c175067620da8c199464cb6882eeb3"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part036",
+      "size": 10485760,
+      "md5": "ec71571f40c003541133c218e08dd407"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part037",
+      "size": 10485760,
+      "md5": "94ca7e8d7231101684b5c2f2dec88162"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part038",
+      "size": 10485760,
+      "md5": "e8b1d933fddce2a46dd55f14533ff23a"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part039",
+      "size": 10485760,
+      "md5": "66c0737844ee88c7ad41bd6446139bf9"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part040",
+      "size": 10485760,
+      "md5": "7b0cced1a117ce282ba3d3ab1a142374"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part041",
+      "size": 10485760,
+      "md5": "b0f1bf5748b4aab61b3bb11166afa4d7"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part042",
+      "size": 10485760,
+      "md5": "36e326ae44c260da0f2fbbc59dae506b"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part043",
+      "size": 10485760,
+      "md5": "7e8d12cfdd9bab1ca09fabc8c80bc133"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part044",
+      "size": 10485760,
+      "md5": "e228d51a4c2139d5b1007e80625bc91f"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part045",
+      "size": 10485760,
+      "md5": "15e61f53683850302b0b96dade3ac246"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part046",
+      "size": 10485760,
+      "md5": "227a501505549e7af358faf36040817b"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part047",
+      "size": 10485760,
+      "md5": "6d6122315f638aab62db6e9bf939c460"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part048",
+      "size": 10485760,
+      "md5": "faf6c99b9d94309cf1510fdf5c8e0d1f"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part049",
+      "size": 10485760,
+      "md5": "a2c3c0abfb8070a959fbc16dc8fc4c5a"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part050",
+      "size": 10485760,
+      "md5": "93fb43dec308df2f43d833a67292b174"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part051",
+      "size": 10485760,
+      "md5": "29da521c78e42b442917dfb547f80260"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part052",
+      "size": 10485760,
+      "md5": "9e3d470c35e3093b3695523b551775ea"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part053",
+      "size": 10485760,
+      "md5": "64ca58bd0ce8f623094d88b1217e28b2"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part054",
+      "size": 10485760,
+      "md5": "315c6f09460e457219c27f0c3f3c92ef"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part055",
+      "size": 10485760,
+      "md5": "75f7d88ec926cd466cb0bdd466487f00"
+    },
+    {
+      "name": "pro-evolution-soccer-europe-enfrde.zip.part056",
+      "size": 3420349,
+      "md5": "820752478b88eadebdacff54632992ba"
+    }
+  ]
+}
